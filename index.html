@@ -90,7 +90,7 @@
       return list.map(normalizeEvent).filter(event=>{const key=canonicalUrl(event.registration_url)||`${event.title}|${event.date}|${event.city}`;if(seen.has(key))return false;seen.add(key);return true});
     }
     let events=demoEvents.map(normalizeEvent), city='全部', windowFilter='all', selectedId=null, dataMode='demo';
-    const apiEndpoint=location.hostname.endsWith('tcloudbaseapp.com')?'https://yanchuan-d1gk3frc3d3376029.service.tcloudbase.com/api':'/api';
+    const apiEndpoint=['127.0.0.1','localhost'].includes(location.hostname)?'/api':'https://yanchuan-d1gk3frc3d3376029.service.tcloudbase.com/api';
     const todayKey=new Date().toLocaleDateString('sv-SE',{timeZone:'Asia/Shanghai'});
     const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
     const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
