@@ -2,6 +2,12 @@
 
 这是一个“网页 + 后端 API + SQLite + 定时抓取”的最小可运行版本。
 
+## 在线访问
+
+公网网页：<https://xuquanjun1-lab.github.io/ai-event-radar/>
+
+页面会从腾讯 CloudBase 的公开 API 读取活动数据，因此在手机或电脑上打开同一链接均可查看最新同步结果。
+
 ## 本地启动
 
 在当前目录执行：
