@@ -11,7 +11,14 @@
       "timeout": 60,
       "memorySize": 256,
       "installDependency": true,
-      "description": "Public AI event feed and scheduled public-source collector"
+      "description": "Public AI event feed and scheduled public-source collector",
+      "triggers": [
+        {
+          "name": "daily-ai-event-sync",
+          "type": "timer",
+          "config": "0 0 9 * * * *"
+        }
+      ]
     }
   ]
 }
