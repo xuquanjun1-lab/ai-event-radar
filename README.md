@@ -25,7 +25,7 @@ API：
 - `GET /api/sources`：当前公开来源
 - `POST /api/sync`：手动执行一次抓取
 
-默认每小时检查一次来源，可通过 `AI_EVENTS_SYNC_INTERVAL` 调整秒数。数据库文件位于 `data/events.sqlite3`，不应提交到 Git；首次启动会自动建表并写入基础活动数据，后续抓取结果会持久化到同一数据库。
+本地服务默认每小时检查一次来源，可通过 `AI_EVENTS_SYNC_INTERVAL` 调整秒数。腾讯 CloudBase 的公网数据源已配置为每天北京时间 09:00 自动同步。数据库文件位于 `data/events.sqlite3`，不应提交到 Git；首次启动会自动建表并写入基础活动数据，后续抓取结果会持久化到同一数据库。
 
 ## 当前抓取边界
 
