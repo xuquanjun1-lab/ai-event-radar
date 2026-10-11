@@ -1,0 +1,48 @@
+{
+  "updated_at": "2026-10-11T04:09:58.739287+00:00",
+  "events": [
+    {
+      "title": "2 小时用 Claude 构建求职 AI 智能体",
+      "city": "线上",
+      "type": "工作坊",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-12",
+      "day": "12",
+      "weekday": "周一",
+      "place": "线上 · 以报名页为准",
+      "source": "Meetup 官方活动页（已核验）",
+      "source_url": "https://www.meetup.com/tech-entrepreneurship-ai-venture-capital-prc/events/316536398/",
+      "registration_url": "https://www.meetup.com/tech-entrepreneurship-ai-venture-capital-prc/events/316536398/",
+      "description": "报名方式、名额和具体安排请查看主办方活动页。"
+    },
+    {
+      "title": "火山引擎开发者社区技术日・NVIDIA 独家赞助-长沙站",
+      "city": "长沙",
+      "type": "会议",
+      "start_date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "day": "23",
+      "weekday": "周五",
+      "place": "岳麓区尖山路中电软件园总部大楼二楼多功能厅",
+      "source": "活动行报名页（已核验）",
+      "source_url": "https://cs.huodongxing.com/event/4878904065200",
+      "registration_url": "https://cs.huodongxing.com/event/4878904065200",
+      "description": "视频生成模型、多模态大模型与 NVIDIA 算力加速技术日；报名中，截止时间以原页为准。"
+    },
+    {
+      "title": "3 小时构建首个研究型 AI 智能体",
+      "city": "线上",
+      "type": "工作坊",
+      "start_date": "2026-10-26",
+      "end_date": "2026-10-26",
+      "day": "26",
+      "weekday": "周一",
+      "place": "线上 · 以报名页为准",
+      "source": "Meetup 官方活动页（已核验）",
+      "source_url": "https://www.meetup.com/tech-entrepreneurship-ai-venture-capital-prc/events/316510494/",
+      "registration_url": "https://www.meetup.com/tech-entrepreneurship-ai-venture-capital-prc/events/316510494/",
+      "description": "报名方式、名额和具体安排请查看主办方活动页。"
+    }
+  ],
+  "errors": []
+}

@@ -13,7 +13,9 @@ import re
 import sqlite3
 import threading
 import time
+import xml.etree.ElementTree as ET
 from datetime import date, datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from typing import Any
@@ -24,6 +26,7 @@ ROOT = Path(__file__).resolve().parent
 DB_PATH = Path(os.environ.get("AI_EVENTS_DB", ROOT / "data" / "events.sqlite3"))
 PORT = int(os.environ.get("AI_EVENTS_PORT", "8787"))
 SYNC_INTERVAL = int(os.environ.get("AI_EVENTS_SYNC_INTERVAL", "3600"))
+AIHOT_BASE_URL = os.environ.get("AIHOT_BASE_URL", "").rstrip("/")
 USER_AGENT = "AI-Event-Radar/0.1 (+public-event-indexer)"
 
 SOURCES = [
@@ -35,6 +38,14 @@ SOURCES = [
 
 WEEKDAYS = "一二三四五六日"
 CITY_NAMES = ("上海", "杭州", "长沙", "北京", "深圳", "广州", "成都", "南京", "武汉", "苏州", "重庆", "西安")
+NEWS_SOURCES = [
+    {"name": "OpenAI 官方新闻", "url": "https://openai.com/news/rss.xml"},
+    {"name": "Google DeepMind 官方博客", "url": "https://deepmind.google/blog/rss.xml"},
+    {"name": "Hugging Face 官方博客", "url": "https://huggingface.co/blog/feed.xml"},
+    {"name": "GitHub AI & ML 官方博客", "url": "https://github.blog/ai-and-ml/feed/"},
+]
+_news_cache: dict[str, Any] = {"checked_at": 0.0, "items": [], "errors": []}
+_news_lock = threading.Lock()
 
 
 def now_iso() -> str:
@@ -144,6 +155,71 @@ def fetch_html(url: str) -> str:
         data = response.read(2_000_000)
         charset = response.headers.get_content_charset() or "utf-8"
         return data.decode(charset, errors="replace")
+
+
+def clean_feed_text(value: str | None) -> str:
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html.unescape(value or ""))).strip()
+
+
+def feed_date(value: str | None) -> datetime | None:
+    if not value:
+        return None
+    try:
+        parsed = parsedate_to_datetime(value)
+    except (TypeError, ValueError):
+        try:
+            parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        except ValueError:
+            return None
+    return parsed.replace(tzinfo=timezone.utc) if parsed.tzinfo is None else parsed.astimezone(timezone.utc)
+
+
+def collect_news() -> dict[str, Any]:
+    """优先读取自建 AIHOT，未配置时低频读取一手 RSS。"""
+    with _news_lock:
+        if time.time() - _news_cache["checked_at"] < 1800:
+            return {"items": _news_cache["items"], "errors": _news_cache["errors"], "checked_at": _news_cache["checked_at"]}
+        cutoff = datetime.now(timezone.utc) - timedelta(days=7)
+        items: list[dict[str, Any]] = []
+        errors: list[str] = []
+        seen: set[str] = set()
+        if AIHOT_BASE_URL:
+            try:
+                payload = json.loads(fetch_html(f"{AIHOT_BASE_URL}/api/v1/items?mode=selected&window=7d&limit=30"))
+                for item in payload.get("items", []):
+                    published = feed_date(item.get("publishedAt"))
+                    original = item.get("links", {}).get("original", "")
+                    if item.get("category") == "paper" or not published or published < cutoff or urlparse(original).scheme not in {"http", "https"} or original in seen:
+                        continue
+                    seen.add(original)
+                    items.append({"title": item.get("title", ""), "summary": item.get("summary", ""), "publishedAt": published.isoformat(), "source": item.get("source", {}), "links": {"original": original, "aihot": item.get("links", {}).get("aihot", "")}, "category": item.get("category", "industry")})
+                items.sort(key=lambda item: item["publishedAt"], reverse=True)
+                _news_cache.update({"checked_at": time.time(), "items": items[:30], "errors": []})
+                return {"items": _news_cache["items"], "errors": [], "checked_at": _news_cache["checked_at"], "provider": "self-hosted-aihot"}
+            except (OSError, ValueError, KeyError, TypeError) as exc:
+                errors.append(f"自建 AIHOT：{type(exc).__name__}")
+        for source in NEWS_SOURCES:
+            try:
+                root = ET.fromstring(fetch_html(source["url"]))
+                atom = "{http://www.w3.org/2005/Atom}"
+                entries = root.findall(".//item") or root.findall(f".//{atom}entry")
+                for entry in entries[:30]:
+                    title = clean_feed_text(entry.findtext("title") or entry.findtext(f"{atom}title"))
+                    link = entry.findtext("link") or ""
+                    if not link:
+                        link_node = entry.find(f"{atom}link")
+                        link = link_node.get("href", "") if link_node is not None else ""
+                    published = feed_date(entry.findtext("pubDate") or entry.findtext(f"{atom}published") or entry.findtext(f"{atom}updated"))
+                    if not title or not published or published < cutoff or urlparse(link).scheme not in {"http", "https"} or link in seen:
+                        continue
+                    seen.add(link)
+                    summary = clean_feed_text(entry.findtext("description") or entry.findtext(f"{atom}summary"))[:320]
+                    items.append({"title": title, "summary": summary, "publishedAt": published.isoformat(), "source": {"name": source["name"]}, "links": {"original": link}, "category": "industry"})
+            except (OSError, ValueError, ET.ParseError) as exc:
+                errors.append(f"{source['name']}：{type(exc).__name__}")
+        items.sort(key=lambda item: item["publishedAt"], reverse=True)
+        _news_cache.update({"checked_at": time.time(), "items": items[:30], "errors": errors})
+        return {"items": _news_cache["items"], "errors": errors, "checked_at": _news_cache["checked_at"], "provider": "official-rss"}
 
 
 def infer_type(text: str) -> str:
@@ -256,6 +332,8 @@ class Handler(BaseHTTPRequestHandler):
             self._send(200, {"ok": True, "database": str(DB_PATH), "last_sync": last_sync(), "sources": len(SOURCES)}); return
         if parsed.path == "/api/sources" or (parsed.path == "/api" and action == "sources"):
             self._send(200, {"sources": SOURCES}); return
+        if parsed.path == "/api/news" or (parsed.path == "/api" and action == "news"):
+            self._send(200, collect_news()); return
         path = ROOT / ("index.html" if parsed.path in {"", "/"} else parsed.path.lstrip("/"))
         if path.exists() and path.is_file() and ROOT in path.resolve().parents:
             self._send(200, path.read_bytes(), "text/html; charset=utf-8" if path.suffix == ".html" else "application/octet-stream"); return
