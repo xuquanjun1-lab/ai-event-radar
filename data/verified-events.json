@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-10-12T07:20:29.575770+00:00",
+  "updated_at": "2026-10-13T07:41:45.151077+00:00",
   "events": [
-    {
-      "title": "2 小时用 Claude 构建求职 AI 智能体",
-      "city": "线上",
-      "type": "工作坊",
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-12",
-      "day": "12",
-      "weekday": "周一",
-      "place": "线上 · 以报名页为准",
-      "source": "Meetup 官方活动页（已核验）",
-      "source_url": "https://www.meetup.com/tech-entrepreneurship-ai-venture-capital-prc/events/316536398/",
-      "registration_url": "https://www.meetup.com/tech-entrepreneurship-ai-venture-capital-prc/events/316536398/",
-      "description": "报名方式、名额和具体安排请查看主办方活动页。"
-    },
     {
       "title": "火山引擎开发者社区技术日・NVIDIA 独家赞助-长沙站",
       "city": "长沙",
