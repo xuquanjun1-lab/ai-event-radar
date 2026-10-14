@@ -1,6 +1,90 @@
 {
-  "updated_at": "2026-10-13T07:41:42.706892+00:00",
+  "updated_at": "2026-10-14T06:07:46.005363+00:00",
   "items": [
+    {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "publishedAt": "2026-10-14T02:00:14+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "summary": "",
+      "publishedAt": "2026-10-13T19:43:07+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog .",
+      "publishedAt": "2026-10-13T17:56:33+00:00",
+      "source": {
+        "name": "GitHub AI & ML 官方博客"
+      },
+      "links": {
+        "original": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "summary": "",
+      "publishedAt": "2026-10-13T17:05:48+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:58+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:52+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/introducing-gemini-4-argon/"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "publishedAt": "2026-10-13T12:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/higgsfield-longer-videos-voice"
+      },
+      "category": "industry"
+    },
     {
       "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
       "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .",
@@ -122,18 +206,6 @@
       "category": "industry"
     },
     {
-      "title": "Multimodal open d1 decision models for the edge",
-      "summary": "",
-      "publishedAt": "2026-10-07T16:54:33+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/LiquidAI/open-d1"
-      },
-      "category": "industry"
-    },
-    {
       "title": "Introducing Falcon ASR",
       "summary": "",
       "publishedAt": "2026-10-07T13:21:03+00:00",
@@ -180,70 +252,8 @@
         "original": "https://openai.com/index/radisson"
       },
       "category": "industry"
-    },
-    {
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "publishedAt": "2026-10-07T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/gpt-6-for-everyone"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "publishedAt": "2026-10-06T16:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/atlassian-partnership"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "publishedAt": "2026-10-06T12:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/jump-trading"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "publishedAt": "2026-10-06T12:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/sharing-ai-progress-in-mathematics"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Advancing computer use with Ironclad",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "publishedAt": "2026-10-06T10:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/advancing-computer-use-with-ironclad"
-      },
-      "category": "industry"
     }
   ],
-  "errors": [
-    "Google DeepMind 官方博客：ParseError"
-  ],
+  "errors": [],
   "provider": "official-rss"
 }
