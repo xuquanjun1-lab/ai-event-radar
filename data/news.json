@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-10-14T06:07:46.005363+00:00",
+  "updated_at": "2026-10-15T05:54:16.383006+00:00",
   "items": [
+    {
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "summary": "",
+      "publishedAt": "2026-10-14T16:12:42+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/allenai/hiro-acev2"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "publishedAt": "2026-10-14T12:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/amp-beyond-coding"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "publishedAt": "2026-10-14T12:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/sentinelone"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/third-moment-research"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/block-ai-powered-security"
+      },
+      "category": "industry"
+    },
     {
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
       "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
@@ -10,6 +70,18 @@
       },
       "links": {
         "original": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "publishedAt": "2026-10-14T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
       },
       "category": "industry"
     },
@@ -98,14 +170,14 @@
       "category": "industry"
     },
     {
-      "title": "Impactful scheduling for GPU clusters",
-      "summary": "",
-      "publishedAt": "2026-10-09T15:20:29+00:00",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
       "source": {
-        "name": "Hugging Face 官方博客"
+        "name": "OpenAI 官方新闻"
       },
       "links": {
-        "original": "https://huggingface.co/blog/allenai/impactful-scheduling"
+        "original": "https://openai.com/index/asana-browser-agent"
       },
       "category": "industry"
     },
@@ -118,18 +190,6 @@
       },
       "links": {
         "original": "https://openai.com/index/sophos"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/asana-browser-agent"
       },
       "category": "industry"
     },
@@ -166,90 +226,6 @@
       },
       "links": {
         "original": "https://openai.com/index/legalon-halves-codex-costs"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "publishedAt": "2026-10-08T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "The model that didn't exist, so you made it yourself",
-      "summary": "",
-      "publishedAt": "2026-10-08T00:00:00+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/building-with-ml-intern"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Secret protection must scale with software",
-      "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog .",
-      "publishedAt": "2026-10-07T17:45:34+00:00",
-      "source": {
-        "name": "GitHub AI & ML 官方博客"
-      },
-      "links": {
-        "original": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Introducing Falcon ASR",
-      "summary": "",
-      "publishedAt": "2026-10-07T13:21:03+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/tiiuae/falcon-asr"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "summary": "",
-      "publishedAt": "2026-10-07T12:45:31+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "publishedAt": "2026-10-07T12:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/teens-learn-and-plan"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "publishedAt": "2026-10-07T07:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/radisson"
       },
       "category": "industry"
     }
