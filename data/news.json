@@ -1,6 +1,90 @@
 {
-  "updated_at": "2026-10-15T05:54:16.383006+00:00",
+  "updated_at": "2026-10-16T05:50:59.134188+00:00",
   "items": [
+    {
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "summary": "",
+      "publishedAt": "2026-10-16T01:44:47+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "summary": "",
+      "publishedAt": "2026-10-15T20:34:01+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "publishedAt": "2026-10-15T19:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Teaching students to think and learn through questions",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "publishedAt": "2026-10-15T13:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "publishedAt": "2026-10-15T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/sullivan-cromwell"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "summary": "",
+      "publishedAt": "2026-10-15T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/meta-muse-spark-open"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "summary": "",
+      "publishedAt": "2026-10-15T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/flux-3"
+      },
+      "category": "industry"
+    },
     {
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
       "summary": "",
@@ -62,18 +146,6 @@
       "category": "industry"
     },
     {
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "publishedAt": "2026-10-14T02:00:14+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
-      },
-      "category": "industry"
-    },
-    {
       "title": "The EU’s next chapter in AI is agentic",
       "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
       "publishedAt": "2026-10-14T00:00:00+00:00",
@@ -82,18 +154,6 @@
       },
       "links": {
         "original": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "summary": "",
-      "publishedAt": "2026-10-13T19:43:07+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
       },
       "category": "industry"
     },
@@ -118,30 +178,6 @@
       },
       "links": {
         "original": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:58+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:52+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/introducing-gemini-4-argon/"
       },
       "category": "industry"
     },
@@ -192,44 +228,10 @@
         "original": "https://openai.com/index/sophos"
       },
       "category": "industry"
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "publishedAt": "2026-10-08T16:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/oracle"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "publishedAt": "2026-10-08T12:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/pollo-ai"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "publishedAt": "2026-10-08T12:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/legalon-halves-codex-costs"
-      },
-      "category": "industry"
     }
   ],
-  "errors": [],
+  "errors": [
+    "Google DeepMind 官方博客：ParseError"
+  ],
   "provider": "official-rss"
 }
