@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-10-16T05:50:59.134188+00:00",
+  "updated_at": "2026-10-17T05:35:38.989395+00:00",
   "items": [
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "publishedAt": "2026-10-16T19:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/itau-generative-ai"
+      },
+      "category": "industry"
+    },
     {
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "summary": "",
@@ -10,6 +22,42 @@
       },
       "links": {
         "original": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "publishedAt": "2026-10-16T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "publishedAt": "2026-10-16T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/benefit-street-partners"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "summary": "",
+      "publishedAt": "2026-10-16T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/reflection-beam"
       },
       "category": "industry"
     },
@@ -34,6 +82,18 @@
       },
       "links": {
         "original": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "publishedAt": "2026-10-15T16:08:03+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
       },
       "category": "industry"
     },
@@ -146,6 +206,18 @@
       "category": "industry"
     },
     {
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "publishedAt": "2026-10-14T02:00:14+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      },
+      "category": "industry"
+    },
+    {
       "title": "The EU’s next chapter in AI is agentic",
       "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
       "publishedAt": "2026-10-14T00:00:00+00:00",
@@ -154,6 +226,18 @@
       },
       "links": {
         "original": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "summary": "",
+      "publishedAt": "2026-10-13T19:43:07+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
       },
       "category": "industry"
     },
@@ -182,6 +266,30 @@
       "category": "industry"
     },
     {
+      "title": "Gemini 4 Argon for Robotics",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:58+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary": "",
+      "publishedAt": "2026-10-13T16:01:52+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/introducing-gemini-4-argon/"
+      },
+      "category": "industry"
+    },
+    {
       "title": "Higgsfield takes AI video from 1 minute to over 10",
       "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
       "publishedAt": "2026-10-13T12:00:00+00:00",
@@ -204,34 +312,8 @@
         "original": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/"
       },
       "category": "industry"
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/asana-browser-agent"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "publishedAt": "2026-10-09T07:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/sophos"
-      },
-      "category": "industry"
     }
   ],
-  "errors": [
-    "Google DeepMind 官方博客：ParseError"
-  ],
+  "errors": [],
   "provider": "official-rss"
 }
