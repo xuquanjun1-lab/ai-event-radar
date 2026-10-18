@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T05:35:38.989395+00:00",
+  "updated_at": "2026-10-18T05:52:55.226044+00:00",
   "items": [
     {
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -26,18 +26,6 @@
       "category": "industry"
     },
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "publishedAt": "2026-10-16T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-      },
-      "category": "industry"
-    },
-    {
       "title": "Benefit Street Partners answers questions faster with Codex",
       "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "publishedAt": "2026-10-16T00:00:00+00:00",
@@ -46,6 +34,18 @@
       },
       "links": {
         "original": "https://openai.com/index/benefit-street-partners"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "publishedAt": "2026-10-16T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/stack-overflow-chatgpt-plugin"
       },
       "category": "industry"
     },
