@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-19T06:12:04.604543+00:00",
+  "updated_at": "2026-10-20T06:00:24.603152+00:00",
   "items": [
+    {
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
+      "publishedAt": "2026-10-19T18:47:22+00:00",
+      "source": {
+        "name": "GitHub AI & ML 官方博客"
+      },
+      "links": {
+        "original": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Advancing coding in low‑resource programming languages",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "publishedAt": "2026-10-19T12:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/low-resource-programming-languages"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "summary": "",
+      "publishedAt": "2026-10-19T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/hf-torchneuron"
+      },
+      "category": "industry"
+    },
     {
       "title": "How Itaú is building generative AI for its entire customer base",
       "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
@@ -106,6 +142,18 @@
       },
       "links": {
         "original": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Apertus 1.5 Release Notes",
+      "summary": "",
+      "publishedAt": "2026-10-15T09:08:45+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
       },
       "category": "industry"
     },
@@ -298,18 +346,6 @@
       },
       "links": {
         "original": "https://openai.com/index/higgsfield-longer-videos-voice"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-      "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog .",
-      "publishedAt": "2026-10-12T17:43:59+00:00",
-      "source": {
-        "name": "GitHub AI & ML 官方博客"
-      },
-      "links": {
-        "original": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/"
       },
       "category": "industry"
     }
