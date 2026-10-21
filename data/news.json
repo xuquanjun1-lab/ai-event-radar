@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-10-20T06:00:24.603152+00:00",
+  "updated_at": "2026-10-21T06:01:16.053625+00:00",
   "items": [
+    {
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "summary": "",
+      "publishedAt": "2026-10-20T18:17:47+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "summary": "",
+      "publishedAt": "2026-10-20T16:09:19+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/allenai/fairstress"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+      "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .",
+      "publishedAt": "2026-10-20T16:05:03+00:00",
+      "source": {
+        "name": "GitHub AI & ML 官方博客"
+      },
+      "links": {
+        "original": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "summary": "",
+      "publishedAt": "2026-10-20T15:19:48+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "publishedAt": "2026-10-20T10:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/ted-taylor-restaurant"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/terminal-x"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "summary": "",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/hf-torchtpu"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "summary": "",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/anylanguagemodel-1-0"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "MPS in PyTorch 2.15",
+      "summary": "",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/mps-pytorch-2-15"
+      },
+      "category": "industry"
+    },
     {
       "title": "How to continue a GitHub Copilot app session in VS Code",
       "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog .",
@@ -50,14 +170,14 @@
       "category": "industry"
     },
     {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "summary": "",
-      "publishedAt": "2026-10-16T01:44:47+00:00",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "publishedAt": "2026-10-16T00:00:00+00:00",
       "source": {
-        "name": "Hugging Face 官方博客"
+        "name": "OpenAI 官方新闻"
       },
       "links": {
-        "original": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+        "original": "https://openai.com/index/stack-overflow-chatgpt-plugin"
       },
       "category": "industry"
     },
@@ -70,18 +190,6 @@
       },
       "links": {
         "original": "https://openai.com/index/benefit-street-partners"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "publishedAt": "2026-10-16T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/stack-overflow-chatgpt-plugin"
       },
       "category": "industry"
     },
@@ -194,18 +302,6 @@
       "category": "industry"
     },
     {
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "summary": "",
-      "publishedAt": "2026-10-14T16:12:42+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/allenai/hiro-acev2"
-      },
-      "category": "industry"
-    },
-    {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
       "publishedAt": "2026-10-14T12:00:00+00:00",
@@ -250,102 +346,6 @@
       },
       "links": {
         "original": "https://openai.com/index/block-ai-powered-security"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "publishedAt": "2026-10-14T02:00:14+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "The EU’s next chapter in AI is agentic",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "publishedAt": "2026-10-14T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "summary": "",
-      "publishedAt": "2026-10-13T19:43:07+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
-      "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog .",
-      "publishedAt": "2026-10-13T17:56:33+00:00",
-      "source": {
-        "name": "GitHub AI & ML 官方博客"
-      },
-      "links": {
-        "original": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "summary": "",
-      "publishedAt": "2026-10-13T17:05:48+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:58+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "",
-      "publishedAt": "2026-10-13T16:01:52+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/introducing-gemini-4-argon/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "publishedAt": "2026-10-13T12:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/higgsfield-longer-videos-voice"
       },
       "category": "industry"
     }
