@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-10-22T06:06:35.848530+00:00",
+  "updated_at": "2026-10-23T06:01:59.541806+00:00",
   "events": [
-    {
-      "title": "火山引擎开发者社区技术日・NVIDIA 独家赞助-长沙站",
-      "city": "长沙",
-      "type": "会议",
-      "start_date": "2026-10-23",
-      "end_date": "2026-10-23",
-      "day": "23",
-      "weekday": "周五",
-      "place": "岳麓区尖山路中电软件园总部大楼二楼多功能厅",
-      "source": "活动行报名页（已核验）",
-      "source_url": "https://cs.huodongxing.com/event/4878904065200",
-      "registration_url": "https://cs.huodongxing.com/event/4878904065200",
-      "description": "视频生成模型、多模态大模型与 NVIDIA 算力加速技术日；报名中，截止时间以原页为准。"
-    },
     {
       "title": "3 小时构建首个研究型 AI 智能体",
       "city": "线上",

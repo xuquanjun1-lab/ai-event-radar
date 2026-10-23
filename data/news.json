@@ -1,6 +1,102 @@
 {
-  "updated_at": "2026-10-22T06:06:33.587438+00:00",
+  "updated_at": "2026-10-23T06:01:55.540699+00:00",
   "items": [
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "publishedAt": "2026-10-23T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "summary": "",
+      "publishedAt": "2026-10-22T22:24:34+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "publishedAt": "2026-10-22T19:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/decisions-api"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "summary": "",
+      "publishedAt": "2026-10-22T16:11:31+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "publishedAt": "2026-10-22T14:30:24+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "summary": "",
+      "publishedAt": "2026-10-22T07:51:31+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "What FDE means at OpenAI",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "publishedAt": "2026-10-22T06:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/forward-deployed-engineering-means"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "publishedAt": "2026-10-22T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/uber-chatgpt-work-rollout"
+      },
+      "category": "industry"
+    },
     {
       "title": "Broad access through consistent standards",
       "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
@@ -158,18 +254,6 @@
       "category": "industry"
     },
     {
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "summary": "",
-      "publishedAt": "2026-10-20T16:09:19+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/allenai/fairstress"
-      },
-      "category": "industry"
-    },
-    {
       "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
       "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .",
       "publishedAt": "2026-10-20T16:05:03+00:00",
@@ -178,18 +262,6 @@
       },
       "links": {
         "original": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "summary": "",
-      "publishedAt": "2026-10-20T15:19:48+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
       },
       "category": "industry"
     },
@@ -286,78 +358,6 @@
       },
       "links": {
         "original": "https://openai.com/index/low-resource-programming-languages"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "summary": "",
-      "publishedAt": "2026-10-19T00:00:00+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/hf-torchneuron"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "publishedAt": "2026-10-16T19:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/itau-generative-ai"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "publishedAt": "2026-10-16T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "publishedAt": "2026-10-16T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/benefit-street-partners"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "summary": "",
-      "publishedAt": "2026-10-16T00:00:00+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/reflection-beam"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "publishedAt": "2026-10-15T19:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/introducing-the-rosalind-academic-plan"
       },
       "category": "industry"
     }
