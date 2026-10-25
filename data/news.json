@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T05:51:14.894544+00:00",
+  "updated_at": "2026-10-25T06:06:14.899008+00:00",
   "items": [
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -82,6 +82,18 @@
       },
       "links": {
         "original": "https://openai.com/index/decisions-api"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "publishedAt": "2026-10-22T14:30:24+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
       },
       "category": "industry"
     },
@@ -348,22 +360,8 @@
         "original": "https://huggingface.co/blog/anylanguagemodel-1-0"
       },
       "category": "industry"
-    },
-    {
-      "title": "MPS in PyTorch 2.15",
-      "summary": "",
-      "publishedAt": "2026-10-20T00:00:00+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/mps-pytorch-2-15"
-      },
-      "category": "industry"
     }
   ],
-  "errors": [
-    "Google DeepMind 官方博客：ParseError"
-  ],
+  "errors": [],
   "provider": "official-rss"
 }
