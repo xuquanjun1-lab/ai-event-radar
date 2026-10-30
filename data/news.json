@@ -1,15 +1,87 @@
 {
-  "updated_at": "2026-10-29T07:03:11.967706+00:00",
+  "updated_at": "2026-10-30T07:04:54.273580+00:00",
   "items": [
     {
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "summary": "",
-      "publishedAt": "2026-10-28T17:00:58+00:00",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "publishedAt": "2026-10-29T17:00:00+00:00",
       "source": {
-        "name": "Google DeepMind 官方博客"
+        "name": "OpenAI 官方新闻"
       },
       "links": {
-        "original": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+        "original": "https://openai.com/index/updated-model-spec"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "summary": "",
+      "publishedAt": "2026-10-29T13:37:07+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "publishedAt": "2026-10-29T09:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "publishedAt": "2026-10-29T07:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/ropes-gray-ai-diligence"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "summary": "",
+      "publishedAt": "2026-10-29T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/announcing-project-protostar"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "summary": "",
+      "publishedAt": "2026-10-29T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/mistral-large4"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "summary": "",
+      "publishedAt": "2026-10-29T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/anydecisionmodel"
       },
       "category": "industry"
     },
@@ -82,18 +154,6 @@
       },
       "links": {
         "original": "https://huggingface.co/blog/allenai/novelty-bench"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Genie 4: A new generation of world simulation",
-      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "publishedAt": "2026-10-27T16:01:38+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
       },
       "category": "industry"
     },
@@ -240,92 +300,10 @@
         "original": "https://openai.com/index/securing-our-frontier-model-training-environment"
       },
       "category": "industry"
-    },
-    {
-      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
-      "publishedAt": "2026-10-23T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/anima"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "publishedAt": "2026-10-23T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "summary": "",
-      "publishedAt": "2026-10-23T00:00:00+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/torch-neuronx-model-support"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "summary": "",
-      "publishedAt": "2026-10-22T22:24:34+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/microsoft/thinkingbox-training"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Build more responsive apps with the Decisions API",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "publishedAt": "2026-10-22T19:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/decisions-api"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "publishedAt": "2026-10-22T14:30:24+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "summary": "",
-      "publishedAt": "2026-10-22T07:51:31+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
-      },
-      "category": "industry"
     }
   ],
-  "errors": [],
+  "errors": [
+    "Google DeepMind 官方博客：ParseError"
+  ],
   "provider": "official-rss"
 }
