@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-30T07:04:54.273580+00:00",
+  "updated_at": "2026-10-31T06:59:02.293414+00:00",
   "items": [
+    {
+      "title": "nemotron-halloween",
+      "summary": "",
+      "publishedAt": "2026-10-30T17:57:24+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "publishedAt": "2026-10-30T09:30:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "publishedAt": "2026-10-30T09:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "publishedAt": "2026-10-30T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/fair-use-benefits-everyone"
+      },
+      "category": "industry"
+    },
     {
       "title": "An updated Model Spec for more capable and beneficial AI",
       "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
@@ -50,6 +98,18 @@
       "category": "industry"
     },
     {
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "publishedAt": "2026-10-29T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/credit-saison"
+      },
+      "category": "industry"
+    },
+    {
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "summary": "",
       "publishedAt": "2026-10-29T00:00:00+00:00",
@@ -86,14 +146,14 @@
       "category": "industry"
     },
     {
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "title": "Gemini 4 Carbon: Our next frontier model",
       "summary": "",
-      "publishedAt": "2026-10-28T14:58:17+00:00",
+      "publishedAt": "2026-10-28T17:00:58+00:00",
       "source": {
-        "name": "Hugging Face 官方博客"
+        "name": "Google DeepMind 官方博客"
       },
       "links": {
-        "original": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+        "original": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
       },
       "category": "industry"
     },
@@ -154,6 +214,18 @@
       },
       "links": {
         "original": "https://huggingface.co/blog/allenai/novelty-bench"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Genie 4: A new generation of world simulation",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "publishedAt": "2026-10-27T16:01:38+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
       },
       "category": "industry"
     },
@@ -276,34 +348,8 @@
         "original": "https://openai.com/index/introducing-gpt-6-1-terra"
       },
       "category": "industry"
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "publishedAt": "2026-10-23T17:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "publishedAt": "2026-10-23T10:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/securing-our-frontier-model-training-environment"
-      },
-      "category": "industry"
     }
   ],
-  "errors": [
-    "Google DeepMind 官方博客：ParseError"
-  ],
+  "errors": [],
   "provider": "official-rss"
 }
