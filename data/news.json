@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T06:59:02.293414+00:00",
+  "updated_at": "2026-11-01T07:30:16.019920+00:00",
   "items": [
     {
       "title": "nemotron-halloween",
@@ -146,18 +146,6 @@
       "category": "industry"
     },
     {
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "summary": "",
-      "publishedAt": "2026-10-28T17:00:58+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
-      },
-      "category": "industry"
-    },
-    {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
       "publishedAt": "2026-10-28T13:15:00+00:00",
@@ -214,18 +202,6 @@
       },
       "links": {
         "original": "https://huggingface.co/blog/allenai/novelty-bench"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Genie 4: A new generation of world simulation",
-      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "publishedAt": "2026-10-27T16:01:38+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
       },
       "category": "industry"
     },
@@ -350,6 +326,8 @@
       "category": "industry"
     }
   ],
-  "errors": [],
+  "errors": [
+    "Google DeepMind 官方博客：ParseError"
+  ],
   "provider": "official-rss"
 }
