@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T07:30:16.019920+00:00",
+  "updated_at": "2026-11-02T07:40:34.394872+00:00",
   "items": [
     {
       "title": "nemotron-halloween",
@@ -146,6 +146,18 @@
       "category": "industry"
     },
     {
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "summary": "",
+      "publishedAt": "2026-10-28T17:00:58+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+      },
+      "category": "industry"
+    },
+    {
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
       "publishedAt": "2026-10-28T13:15:00+00:00",
@@ -202,6 +214,18 @@
       },
       "links": {
         "original": "https://huggingface.co/blog/allenai/novelty-bench"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Genie 4: A new generation of world simulation",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "publishedAt": "2026-10-27T16:01:38+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
       },
       "category": "industry"
     },
@@ -288,46 +312,8 @@
         "original": "https://openai.com/index/chatgpt-expanding-world-of-work"
       },
       "category": "industry"
-    },
-    {
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "publishedAt": "2026-10-26T07:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/fanatics-streamline-fan-experience"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "publishedAt": "2026-10-26T07:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/openai-cut-incident-investigation"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Introducing GPT-6.1 Terra",
-      "summary": "Bringing fast and capable computer use to everyone",
-      "publishedAt": "2026-10-26T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/introducing-gpt-6-1-terra"
-      },
-      "category": "industry"
     }
   ],
-  "errors": [
-    "Google DeepMind 官方博客：ParseError"
-  ],
+  "errors": [],
   "provider": "official-rss"
 }
