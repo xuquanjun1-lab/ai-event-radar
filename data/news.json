@@ -1,6 +1,126 @@
 {
-  "updated_at": "2026-11-05T07:54:07.936227+00:00",
+  "updated_at": "2026-11-06T07:54:55.820268+00:00",
   "items": [
+    {
+      "title": "Cult.fit builds operational muscle with Codex",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "publishedAt": "2026-11-05T20:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/cultfit-builds-with-codex"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "summary": "",
+      "publishedAt": "2026-11-05T19:35:16+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "",
+      "publishedAt": "2026-11-05T17:05:16+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Australian universities are creating AI-native graduates",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "publishedAt": "2026-11-05T17:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/australian-universities-ai-native-graduates"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "publishedAt": "2026-11-05T09:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/introducing-gpt-6-cyber"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/merge-builds-with-openai"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "publishedAt": "2026-11-05T02:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "publishedAt": "2026-11-05T00:45:15+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/ads/customers/flipsnack"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "publishedAt": "2026-11-05T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/franklin-templeton"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "summary": "",
+      "publishedAt": "2026-11-05T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/phonon-tts"
+      },
+      "category": "industry"
+    },
     {
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "summary": "",
@@ -182,18 +302,6 @@
       "category": "industry"
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "publishedAt": "2026-11-02T18:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
-      },
-      "category": "industry"
-    },
-    {
       "title": "Rewarding defenders with bigger bug bounties",
       "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
       "publishedAt": "2026-11-02T18:00:00+00:00",
@@ -202,6 +310,18 @@
       },
       "links": {
         "original": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "publishedAt": "2026-11-02T18:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
       },
       "category": "industry"
     },
@@ -238,126 +358,6 @@
       },
       "links": {
         "original": "https://openai.com/index/lifeval"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "publishedAt": "2026-11-02T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/dan-driscoll-joins-openai"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Qodo builds context into AI code review with Codex",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "publishedAt": "2026-11-02T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/qodo-codex-plugin"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "nemotron-halloween",
-      "summary": "",
-      "publishedAt": "2026-10-30T17:57:24+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/nvidia/nemotron-halloween"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Speeding up planning decisions with AI",
-      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "publishedAt": "2026-10-30T14:18:30+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "publishedAt": "2026-10-30T09:30:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/helping-websites-express-ai-training-preferences"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Community safety report and new protections for teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "publishedAt": "2026-10-30T09:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Fair use benefits everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "publishedAt": "2026-10-30T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/fair-use-benefits-everyone"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "publishedAt": "2026-10-29T17:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/updated-model-spec"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "summary": "",
-      "publishedAt": "2026-10-29T13:37:07+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "How we detect frontier model misalignment",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "publishedAt": "2026-10-29T09:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
       },
       "category": "industry"
     }
