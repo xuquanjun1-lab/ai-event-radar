@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-06T07:54:55.820268+00:00",
+  "updated_at": "2026-11-07T07:08:06.189777+00:00",
   "items": [
+    {
+      "title": "Beyond code generation: A developer’s guide to agentic engineering",
+      "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog .",
+      "publishedAt": "2026-11-06T22:15:59+00:00",
+      "source": {
+        "name": "GitHub AI & ML 官方博客"
+      },
+      "links": {
+        "original": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary": "",
+      "publishedAt": "2026-11-06T14:00:48+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/allenai/toyblocks"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "publishedAt": "2026-11-06T08:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/partnering-with-hacktron"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "publishedAt": "2026-11-06T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "summary": "",
+      "publishedAt": "2026-11-06T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/open-asr-leaderboard-liva"
+      },
+      "category": "industry"
+    },
     {
       "title": "Cult.fit builds operational muscle with Codex",
       "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
@@ -194,18 +254,6 @@
       "category": "industry"
     },
     {
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "summary": "",
-      "publishedAt": "2026-11-03T17:15:21+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/allenai/statebench"
-      },
-      "category": "industry"
-    },
-    {
       "title": "Agentic cheminformatics with Google Antigravity",
       "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
       "publishedAt": "2026-11-03T17:01:49+00:00",
@@ -302,18 +350,6 @@
       "category": "industry"
     },
     {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "publishedAt": "2026-11-02T18:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-      },
-      "category": "industry"
-    },
-    {
       "title": "Preparing our next security sprint to harden OpenAI",
       "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
       "publishedAt": "2026-11-02T18:00:00+00:00",
@@ -322,42 +358,6 @@
       },
       "links": {
         "original": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "publishedAt": "2026-11-02T15:30:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/scaling-git-at-openai"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "publishedAt": "2026-11-02T15:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/grid-protectors-program"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "LifeVal",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "publishedAt": "2026-11-02T09:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/lifeval"
       },
       "category": "industry"
     }
