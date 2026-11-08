@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T07:08:06.189777+00:00",
+  "updated_at": "2026-11-08T07:17:24.486766+00:00",
   "items": [
     {
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
@@ -82,18 +82,6 @@
       },
       "links": {
         "original": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "summary": "",
-      "publishedAt": "2026-11-05T17:05:16+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
       },
       "category": "industry"
     },
@@ -254,18 +242,6 @@
       "category": "industry"
     },
     {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "publishedAt": "2026-11-03T17:01:49+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
-      },
-      "category": "industry"
-    },
-    {
       "title": "Palette: teaching a small model to build decks in your design language",
       "summary": "",
       "publishedAt": "2026-11-03T16:35:36+00:00",
@@ -360,8 +336,34 @@
         "original": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
       },
       "category": "industry"
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "publishedAt": "2026-11-02T18:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "publishedAt": "2026-11-02T15:30:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/scaling-git-at-openai"
+      },
+      "category": "industry"
     }
   ],
-  "errors": [],
+  "errors": [
+    "Google DeepMind 官方博客：ParseError"
+  ],
   "provider": "official-rss"
 }
