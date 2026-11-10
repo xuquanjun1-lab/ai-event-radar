@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-09T07:57:07.364404+00:00",
+  "updated_at": "2026-11-10T08:24:46.357277+00:00",
   "items": [
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "publishedAt": "2026-11-09T19:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "summary": "",
+      "publishedAt": "2026-11-09T15:05:57+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "publishedAt": "2026-11-09T13:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/control-room"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "summary": "",
+      "publishedAt": "2026-11-09T12:34:29+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/coderabbit-codex-daybreak"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/kuken"
+      },
+      "category": "industry"
+    },
     {
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
       "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog .",
@@ -74,14 +146,14 @@
       "category": "industry"
     },
     {
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "summary": "",
-      "publishedAt": "2026-11-05T19:35:16+00:00",
+      "publishedAt": "2026-11-05T17:05:16+00:00",
       "source": {
-        "name": "Hugging Face 官方博客"
+        "name": "Google DeepMind 官方博客"
       },
       "links": {
-        "original": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+        "original": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
       },
       "category": "industry"
     },
@@ -242,6 +314,18 @@
       "category": "industry"
     },
     {
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "publishedAt": "2026-11-03T17:01:49+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+      },
+      "category": "industry"
+    },
+    {
       "title": "Palette: teaching a small model to build decks in your design language",
       "summary": "",
       "publishedAt": "2026-11-03T16:35:36+00:00",
@@ -264,106 +348,8 @@
         "original": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
       },
       "category": "industry"
-    },
-    {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "publishedAt": "2026-11-03T08:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/cisco-cyber"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "publishedAt": "2026-11-03T08:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/heimstaden"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "publishedAt": "2026-11-03T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "summary": "",
-      "publishedAt": "2026-11-03T00:00:00+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/cwe-bench"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Transformers Model Integration Contracts",
-      "summary": "",
-      "publishedAt": "2026-11-03T00:00:00+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/transformers-mic"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "publishedAt": "2026-11-02T18:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "publishedAt": "2026-11-02T18:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "publishedAt": "2026-11-02T15:30:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/scaling-git-at-openai"
-      },
-      "category": "industry"
     }
   ],
-  "errors": [
-    "Google DeepMind 官方博客：ParseError"
-  ],
+  "errors": [],
   "provider": "official-rss"
 }
