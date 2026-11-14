@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-13T07:55:28.459425+00:00",
+  "updated_at": "2026-11-14T07:35:51.799455+00:00",
   "items": [
+    {
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "summary": "",
+      "publishedAt": "2026-11-13T18:00:39+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "XYBench: Helping with the problem behind the question",
+      "summary": "",
+      "publishedAt": "2026-11-13T17:02:35+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/allenai/xybench"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "publishedAt": "2026-11-13T15:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/introducing-chatgpt-wallet"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "summary": "",
+      "publishedAt": "2026-11-13T14:05:22+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "publishedAt": "2026-11-13T08:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/business/customer-stories/shield"
+      },
+      "category": "industry"
+    },
     {
       "title": "Build once, run on any agent: A practical guide to agent skills",
       "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog .",
@@ -34,6 +94,18 @@
       },
       "links": {
         "original": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "",
+      "publishedAt": "2026-11-12T18:00:50+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
       },
       "category": "industry"
     },
@@ -98,6 +170,18 @@
       "category": "industry"
     },
     {
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "publishedAt": "2026-11-11T15:00:15+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+      },
+      "category": "industry"
+    },
+    {
       "title": "ChatGPT Plus for veterans and servicemembers",
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
       "publishedAt": "2026-11-11T08:00:00+00:00",
@@ -146,6 +230,30 @@
       "category": "industry"
     },
     {
+      "title": "Gemini 4 Carbon is now available",
+      "summary": "",
+      "publishedAt": "2026-11-10T16:03:47+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "publishedAt": "2026-11-10T12:02:28+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/introducing-alphaproof-code/"
+      },
+      "category": "industry"
+    },
+    {
       "title": "Helping caregivers use AI in everyday life",
       "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
       "publishedAt": "2026-11-10T12:00:00+00:00",
@@ -154,6 +262,18 @@
       },
       "links": {
         "original": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Opening the datasets behind our AI weather models",
+      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "publishedAt": "2026-11-10T11:13:04+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/"
       },
       "category": "industry"
     },
@@ -240,118 +360,8 @@
         "original": "https://huggingface.co/blog/decision"
       },
       "category": "industry"
-    },
-    {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "publishedAt": "2026-11-09T19:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "summary": "",
-      "publishedAt": "2026-11-09T15:05:57+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "publishedAt": "2026-11-09T13:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/control-room"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "summary": "",
-      "publishedAt": "2026-11-09T12:34:29+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "publishedAt": "2026-11-09T08:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/coderabbit-codex-daybreak"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "publishedAt": "2026-11-09T08:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/kuken"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Beyond code generation: A developer’s guide to agentic engineering",
-      "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The GitHub Blog .",
-      "publishedAt": "2026-11-06T22:15:59+00:00",
-      "source": {
-        "name": "GitHub AI & ML 官方博客"
-      },
-      "links": {
-        "original": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "summary": "",
-      "publishedAt": "2026-11-06T14:00:48+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/allenai/toyblocks"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "publishedAt": "2026-11-06T08:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/partnering-with-hacktron"
-      },
-      "category": "industry"
     }
   ],
-  "errors": [
-    "Google DeepMind 官方博客：ParseError"
-  ],
+  "errors": [],
   "provider": "official-rss"
 }
