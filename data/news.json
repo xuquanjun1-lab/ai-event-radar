@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-11-16T07:57:55.665002+00:00",
+  "updated_at": "2026-11-17T09:12:04.918326+00:00",
   "items": [
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "publishedAt": "2026-11-17T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "publishedAt": "2026-11-16T17:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "publishedAt": "2026-11-16T17:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/strengthening-online-child-safety"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "publishedAt": "2026-11-16T12:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/science-at-the-frontier"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "How Revolut raises ambition without lowering the bar",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "publishedAt": "2026-11-16T09:30:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/business/customer-stories/revolut"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "publishedAt": "2026-11-16T09:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/lvmh-media-division-partnership"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Our first phase of embedded assessments",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/our-first-phase-of-embedded-assessments"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "publishedAt": "2026-11-16T06:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Advancing computer-use agents for healthcare teams",
+      "summary": "",
+      "publishedAt": "2026-11-16T06:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "publishedAt": "2026-11-16T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/the-kings-trust-and-openai"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "publishedAt": "2026-11-16T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/business/customer-stories/holiday-extras-dots"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "summary": "",
+      "publishedAt": "2026-11-16T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/openrouter"
+      },
+      "category": "industry"
+    },
     {
       "title": "A step toward defining the Standard Model on a lattice",
       "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
@@ -214,150 +358,6 @@
       },
       "links": {
         "original": "https://openai.com/index/chatgpt-plus-for-veterans"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "summary": "",
-      "publishedAt": "2026-11-11T05:01:16+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/qvac/botpsy"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "publishedAt": "2026-11-11T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/jiostar-vijay-seshadri"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "summary": "",
-      "publishedAt": "2026-11-11T00:00:00+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/token-pooling"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Gemini 4 Carbon is now available",
-      "summary": "",
-      "publishedAt": "2026-11-10T16:03:47+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "publishedAt": "2026-11-10T12:02:28+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/introducing-alphaproof-code/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Helping caregivers use AI in everyday life",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "publishedAt": "2026-11-10T12:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Opening the datasets behind our AI weather models",
-      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "publishedAt": "2026-11-10T11:13:04+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Introducing Businesses in ChatGPT",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "publishedAt": "2026-11-10T10:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/introducing-businesses-chatgpt"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Closing the AI guidance gap in education",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "publishedAt": "2026-11-10T09:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/closing-ai-guidance-gap-education"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "publishedAt": "2026-11-10T08:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/singapore-airlines-travel-work"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "publishedAt": "2026-11-10T07:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/ai-effect-on-freelance-work"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "publishedAt": "2026-11-10T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/cogent-security"
       },
       "category": "industry"
     }
