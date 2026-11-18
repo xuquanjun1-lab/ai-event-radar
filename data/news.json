@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-17T09:12:04.918326+00:00",
+  "updated_at": "2026-11-18T08:31:56.625343+00:00",
   "items": [
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "publishedAt": "2026-11-17T17:45:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/introducing-chatgpt-for-sales"
+      },
+      "category": "industry"
+    },
     {
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
@@ -10,6 +34,30 @@
       },
       "links": {
         "original": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "publishedAt": "2026-11-17T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/astra-law-6-2"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "publishedAt": "2026-11-17T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/introducing-openai-for-chile"
       },
       "category": "industry"
     },
@@ -266,18 +314,6 @@
       "category": "industry"
     },
     {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "summary": "",
-      "publishedAt": "2026-11-12T18:00:50+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
-      },
-      "category": "industry"
-    },
-    {
       "title": "Gondola doubles revenue as its team builds more with Codex",
       "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
       "publishedAt": "2026-11-12T12:00:00+00:00",
@@ -314,54 +350,20 @@
       "category": "industry"
     },
     {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "title": "ChatGPT Ads increases its market presence in 44 countries",
+      "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
       "publishedAt": "2026-11-12T00:00:00+00:00",
       "source": {
         "name": "OpenAI 官方新闻"
       },
       "links": {
-        "original": "https://openai.com/index/gilbert-tobin-sam-nickless"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "summary": "",
-      "publishedAt": "2026-11-12T00:00:00+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/3d-lora-finetuning"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "publishedAt": "2026-11-11T15:00:15+00:00",
-      "source": {
-        "name": "Google DeepMind 官方博客"
-      },
-      "links": {
-        "original": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "publishedAt": "2026-11-11T08:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/chatgpt-plus-for-veterans"
+        "original": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence"
       },
       "category": "industry"
     }
   ],
-  "errors": [],
+  "errors": [
+    "Google DeepMind 官方博客：ParseError"
+  ],
   "provider": "official-rss"
 }
