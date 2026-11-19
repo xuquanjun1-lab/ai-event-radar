@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-11-18T08:31:56.625343+00:00",
+  "updated_at": "2026-11-19T08:46:47.438087+00:00",
   "items": [
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "summary": "",
+      "publishedAt": "2026-11-18T19:54:56+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "summary": "",
+      "publishedAt": "2026-11-18T18:53:43+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "summary": "",
+      "publishedAt": "2026-11-18T15:00:23+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "The Silent Consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "publishedAt": "2026-11-18T10:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/the-silent-consensus"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "publishedAt": "2026-11-18T08:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/research-acceleration-jagged-frontier"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "publishedAt": "2026-11-18T08:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/business/customer-stories/sumitomo-life"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Inside the Codex sandbox",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "publishedAt": "2026-11-18T08:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/inside-the-codex-sandbox"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "publishedAt": "2026-11-18T06:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/managing-frontier-ai-risk"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "publishedAt": "2026-11-18T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "publishedAt": "2026-11-18T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/advancing-chip-design-with-our-models"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "summary": "",
+      "publishedAt": "2026-11-18T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/moe-expert-streaming"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "summary": "",
+      "publishedAt": "2026-11-18T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/rumble-2-flash"
+      },
+      "category": "industry"
+    },
     {
       "title": "Introducing GPT-6.2 Astra and Sol",
       "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
@@ -214,150 +358,6 @@
       },
       "links": {
         "original": "https://openai.com/index/our-new-blog-for-science"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "summary": "",
-      "publishedAt": "2026-11-13T18:00:39+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "XYBench: Helping with the problem behind the question",
-      "summary": "",
-      "publishedAt": "2026-11-13T17:02:35+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/allenai/xybench"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Introducing ChatGPT Wallet",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "publishedAt": "2026-11-13T15:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/introducing-chatgpt-wallet"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "summary": "",
-      "publishedAt": "2026-11-13T14:05:22+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "publishedAt": "2026-11-13T08:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/business/customer-stories/shield"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Build once, run on any agent: A practical guide to agent skills",
-      "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog .",
-      "publishedAt": "2026-11-12T22:54:52+00:00",
-      "source": {
-        "name": "GitHub AI & ML 官方博客"
-      },
-      "links": {
-        "original": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "publishedAt": "2026-11-12T20:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/business/customer-stories/amplitude"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "summary": "",
-      "publishedAt": "2026-11-12T19:07:35+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "publishedAt": "2026-11-12T12:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/business/customer-stories/gondola"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "publishedAt": "2026-11-12T09:30:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/business/customer-stories/holidays-extras-codex"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Supporting research on AI and children’s safety",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "publishedAt": "2026-11-12T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/children-first-declaration"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "ChatGPT Ads increases its market presence in 44 countries",
-      "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
-      "publishedAt": "2026-11-12T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence"
       },
       "category": "industry"
     }
