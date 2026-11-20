@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-19T08:46:47.438087+00:00",
+  "updated_at": "2026-11-20T08:31:48.619893+00:00",
   "items": [
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "publishedAt": "2026-11-19T08:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "publishedAt": "2026-11-19T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/business/learn/deploying-daybreak-red"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "See PR scans in action",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "publishedAt": "2026-11-19T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/business/learn/pr-scans-demo"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "publishedAt": "2026-11-19T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/business/learn/codex-security-plugin-demo"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Get started with Daybreak Blue",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "publishedAt": "2026-11-19T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
+      },
+      "category": "industry"
+    },
     {
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "summary": "",
@@ -98,18 +158,6 @@
       "category": "industry"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "publishedAt": "2026-11-18T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
-      },
-      "category": "industry"
-    },
-    {
       "title": "Advancing chip design with OpenAI models",
       "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
       "publishedAt": "2026-11-18T00:00:00+00:00",
@@ -118,6 +166,18 @@
       },
       "links": {
         "original": "https://openai.com/index/advancing-chip-design-with-our-models"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "publishedAt": "2026-11-18T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
       },
       "category": "industry"
     },
@@ -182,18 +242,6 @@
       "category": "industry"
     },
     {
-      "title": "Astra for Law leads in legal intelligence",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "publishedAt": "2026-11-17T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/astra-law-6-2"
-      },
-      "category": "industry"
-    },
-    {
       "title": "Introducing OpenAI for Chile",
       "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
       "publishedAt": "2026-11-17T00:00:00+00:00",
@@ -202,6 +250,18 @@
       },
       "links": {
         "original": "https://openai.com/index/introducing-openai-for-chile"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "publishedAt": "2026-11-17T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/astra-law-6-2"
       },
       "category": "industry"
     },
@@ -298,66 +358,6 @@
       },
       "links": {
         "original": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "publishedAt": "2026-11-16T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/the-kings-trust-and-openai"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "At Holiday Extras, dots get to work before anyone asks",
-      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
-      "publishedAt": "2026-11-16T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/business/customer-stories/holiday-extras-dots"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "summary": "",
-      "publishedAt": "2026-11-16T00:00:00+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/openrouter"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "A step toward defining the Standard Model on a lattice",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "publishedAt": "2026-11-15T22:00:01+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/step-toward-defining-the-standard-model"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Our new blog for science",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "publishedAt": "2026-11-15T22:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/our-new-blog-for-science"
       },
       "category": "industry"
     }
