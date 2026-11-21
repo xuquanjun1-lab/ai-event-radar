@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-20T08:31:48.619893+00:00",
+  "updated_at": "2026-11-21T08:15:55.721672+00:00",
   "items": [
+    {
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "publishedAt": "2026-11-20T10:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/combatting-adversarial-distillation"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "publishedAt": "2026-11-20T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/business/customer-stories/hebbia"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "publishedAt": "2026-11-20T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/introducing-medchembench"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "summary": "",
+      "publishedAt": "2026-11-20T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/inkling2mini"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "summary": "",
+      "publishedAt": "2026-11-20T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/harness-adapters-at-scale"
+      },
+      "category": "industry"
+    },
     {
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
@@ -10,30 +70,6 @@
       },
       "links": {
         "original": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Deploying Daybreak Red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "publishedAt": "2026-11-19T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/business/learn/deploying-daybreak-red"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "See PR scans in action",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "publishedAt": "2026-11-19T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/business/learn/pr-scans-demo"
       },
       "category": "industry"
     },
@@ -50,6 +86,18 @@
       "category": "industry"
     },
     {
+      "title": "See PR scans in action",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "publishedAt": "2026-11-19T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/business/learn/pr-scans-demo"
+      },
+      "category": "industry"
+    },
+    {
       "title": "Get started with Daybreak Blue",
       "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
       "publishedAt": "2026-11-19T00:00:00+00:00",
@@ -58,6 +106,30 @@
       },
       "links": {
         "original": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "publishedAt": "2026-11-19T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/business/learn/deploying-daybreak-red"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Introducing Gemini 4 Neon",
+      "summary": "",
+      "publishedAt": "2026-11-18T21:35:43+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/introducing-gemini-4-neon/"
       },
       "category": "industry"
     },
@@ -86,6 +158,18 @@
       "category": "industry"
     },
     {
+      "title": "Genie 4 is now available",
+      "summary": "",
+      "publishedAt": "2026-11-18T18:13:42+00:00",
+      "source": {
+        "name": "Google DeepMind 官方博客"
+      },
+      "links": {
+        "original": "https://deepmind.google/blog/genie-4-is-now-available/"
+      },
+      "category": "industry"
+    },
+    {
       "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
       "summary": "",
       "publishedAt": "2026-11-18T15:00:23+00:00",
@@ -110,18 +194,6 @@
       "category": "industry"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "publishedAt": "2026-11-18T08:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/research-acceleration-jagged-frontier"
-      },
-      "category": "industry"
-    },
-    {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
       "publishedAt": "2026-11-18T08:00:00+00:00",
@@ -130,6 +202,18 @@
       },
       "links": {
         "original": "https://openai.com/business/customer-stories/sumitomo-life"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "publishedAt": "2026-11-18T08:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/research-acceleration-jagged-frontier"
       },
       "category": "industry"
     },
@@ -242,18 +326,6 @@
       "category": "industry"
     },
     {
-      "title": "Introducing OpenAI for Chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "publishedAt": "2026-11-17T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/introducing-openai-for-chile"
-      },
-      "category": "industry"
-    },
-    {
       "title": "Astra for Law leads in legal intelligence",
       "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
       "publishedAt": "2026-11-17T00:00:00+00:00",
@@ -262,6 +334,18 @@
       },
       "links": {
         "original": "https://openai.com/index/astra-law-6-2"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "publishedAt": "2026-11-17T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/introducing-openai-for-chile"
       },
       "category": "industry"
     },
@@ -276,94 +360,8 @@
         "original": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
       },
       "category": "industry"
-    },
-    {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "publishedAt": "2026-11-16T17:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/strengthening-online-child-safety"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "publishedAt": "2026-11-16T12:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/science-at-the-frontier"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "How Revolut raises ambition without lowering the bar",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "publishedAt": "2026-11-16T09:30:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/business/customer-stories/revolut"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "publishedAt": "2026-11-16T09:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/lvmh-media-division-partnership"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Our first phase of embedded assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "publishedAt": "2026-11-16T08:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/our-first-phase-of-embedded-assessments"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "publishedAt": "2026-11-16T06:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "summary": "",
-      "publishedAt": "2026-11-16T06:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
-      },
-      "category": "industry"
     }
   ],
-  "errors": [
-    "Google DeepMind 官方博客：ParseError"
-  ],
+  "errors": [],
   "provider": "official-rss"
 }
