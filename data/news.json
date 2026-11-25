@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-24T10:54:05.088870+00:00",
+  "updated_at": "2026-11-25T09:50:23.339284+00:00",
   "items": [
+    {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "summary": "",
+      "publishedAt": "2026-11-24T16:34:13+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "publishedAt": "2026-11-24T13:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "publishedAt": "2026-11-24T11:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/index/searching-for-distant-planets-with-astra"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "publishedAt": "2026-11-24T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/business/customer-stories/intentful-dots"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "",
+      "publishedAt": "2026-11-24T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/business/customer-stories/ifood"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "publishedAt": "2026-11-24T00:00:00+00:00",
+      "source": {
+        "name": "OpenAI 官方新闻"
+      },
+      "links": {
+        "original": "https://openai.com/business/customer-stories/clay-plugins-openai"
+      },
+      "category": "industry"
+    },
     {
       "title": "OpenAI and Cisco introduce Shirudo",
       "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
@@ -170,14 +242,14 @@
       "category": "industry"
     },
     {
-      "title": "Get started with Daybreak Blue",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "title": "Deploying Daybreak Red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "publishedAt": "2026-11-19T00:00:00+00:00",
       "source": {
         "name": "OpenAI 官方新闻"
       },
       "links": {
-        "original": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
+        "original": "https://openai.com/business/learn/deploying-daybreak-red"
       },
       "category": "industry"
     },
@@ -194,14 +266,14 @@
       "category": "industry"
     },
     {
-      "title": "Deploying Daybreak Red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "title": "Get started with Daybreak Blue",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
       "publishedAt": "2026-11-19T00:00:00+00:00",
       "source": {
         "name": "OpenAI 官方新闻"
       },
       "links": {
-        "original": "https://openai.com/business/learn/deploying-daybreak-red"
+        "original": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
       },
       "category": "industry"
     },
@@ -274,90 +346,6 @@
       },
       "links": {
         "original": "https://openai.com/index/the-silent-consensus"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Research acceleration: The jagged frontier",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "publishedAt": "2026-11-18T08:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/research-acceleration-jagged-frontier"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "publishedAt": "2026-11-18T08:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/business/customer-stories/sumitomo-life"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Inside the Codex sandbox",
-      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "publishedAt": "2026-11-18T08:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/inside-the-codex-sandbox"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Managing frontier AI risk: From training to deployment",
-      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "publishedAt": "2026-11-18T06:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/managing-frontier-ai-risk"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "publishedAt": "2026-11-18T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "publishedAt": "2026-11-18T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/advancing-chip-design-with-our-models"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "summary": "",
-      "publishedAt": "2026-11-18T00:00:00+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/moe-expert-streaming"
       },
       "category": "industry"
     }
