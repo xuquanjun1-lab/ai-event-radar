@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-26T09:30:10.065261+00:00",
+  "updated_at": "2026-11-27T09:39:45.805511+00:00",
   "items": [
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "",
+      "publishedAt": "2026-11-26T11:37:17+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+      },
+      "category": "industry"
+    },
     {
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
       "summary": "",
@@ -10,6 +22,18 @@
       },
       "links": {
         "original": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+      },
+      "category": "industry"
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "summary": "",
+      "publishedAt": "2026-11-26T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/training-swarms"
       },
       "category": "industry"
     },
@@ -214,54 +238,6 @@
       },
       "links": {
         "original": "https://openai.com/index/combatting-adversarial-distillation"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "publishedAt": "2026-11-20T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/business/customer-stories/hebbia"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "publishedAt": "2026-11-20T00:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/introducing-medchembench"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "summary": "",
-      "publishedAt": "2026-11-20T00:00:00+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/inkling2mini"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "summary": "",
-      "publishedAt": "2026-11-20T00:00:00+00:00",
-      "source": {
-        "name": "Hugging Face 官方博客"
-      },
-      "links": {
-        "original": "https://huggingface.co/blog/harness-adapters-at-scale"
       },
       "category": "industry"
     }
