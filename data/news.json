@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-27T09:39:45.805511+00:00",
+  "updated_at": "2026-11-28T08:54:32.256013+00:00",
   "items": [
+    {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "",
+      "publishedAt": "2026-11-27T00:00:00+00:00",
+      "source": {
+        "name": "Hugging Face 官方博客"
+      },
+      "links": {
+        "original": "https://huggingface.co/blog/video-trainium3"
+      },
+      "category": "industry"
+    },
     {
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "summary": "",
@@ -226,18 +238,6 @@
       },
       "links": {
         "original": "https://openai.com/index/perplexity-and-intelligence"
-      },
-      "category": "industry"
-    },
-    {
-      "title": "Combatting adversarial distillation",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "publishedAt": "2026-11-20T10:00:00+00:00",
-      "source": {
-        "name": "OpenAI 官方新闻"
-      },
-      "links": {
-        "original": "https://openai.com/index/combatting-adversarial-distillation"
       },
       "category": "industry"
     }
